@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard built to analyze mobile phone sales performance across brands, models, cities, and payment methods — helping surface trends in revenue, volume, and customer satisfaction at a glance.
 
-![Dashboard Preview](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/c9w29o6ungtyoip4lsmn)
-
 ## 🔍 Overview
 
 This dashboard turns raw mobile sales transaction data into a single-page, decision-ready view. It's designed for quick scanning: high-level KPIs up top, then drill-down visuals for geography, trends, product mix, and customer feedback.
